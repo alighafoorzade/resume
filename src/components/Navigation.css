@@ -1,7 +1,7 @@
 .navigation{
     display: flex;
     position: fixed;
-    width: 100%;
+    width: 100vw;
     background: #72b5b7;
     box-shadow: 0px 0px 10px -6px;
     justify-content: flex-end;

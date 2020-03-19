@@ -6,7 +6,7 @@ import data from "../data";
 class DownIcon extends Component{
     render(){
         return (
-            <div className={`downIcon ${this.props.className}`}>
+            <div className={`downIcon ${this.props.className || ''}`}>
                 <img src={data.icons.down} alt="Down icon"/>
             </div>
         );
