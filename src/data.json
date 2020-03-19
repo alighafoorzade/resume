@@ -51,28 +51,28 @@
         {
           "type": "card",
           "content": {
-            "image": "/images/html5.png",
+            "image": "images/html5.png",
             "title": "HTML5"
           }
         },
         {
           "type": "card",
           "content": {
-            "image": "/images/css3.png",
+            "image": "images/css3.png",
             "title": "CSS3"
           }
         },
         {
           "type": "card",
           "content": {
-            "image": "/images/javascript.png",
+            "image": "images/javascript.png",
             "title": "Javascript"
           }
         },
         {
           "type": "card",
           "content": {
-            "image": "/images/jquery.png",
+            "image": "images/jquery.png",
             "title": "Jquery"
           }
         }
