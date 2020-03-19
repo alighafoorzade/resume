@@ -1,0 +1,85 @@
+{
+  "title": "Hello I'm Ali",
+  "subtitle": "Full Stack Dev | Open Source | etc",
+  "links": {
+    "telegram": "https://t.me/alighafoorzade",
+    "github": "https://github.com/alighafoorzade",
+    "twitter": "https://twitter.com/ali_ghafoorzade",
+    "linkedin": "https://www.linkedin.com/in/ali-ghafoorzade-023b9878/"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I'm full-stack developer and i love coding.\nI'm studying computer engineering in Isfahan University of Technology!\nI'm in the path of learning new subjects:\nMachine Learning,Deep Learning,Data Mining,Computer Vision and Computer Graphics"
+        }
+      ]
+    },
+    {
+      "title": "skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/laravel.png",
+            "title": "Laravel"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/php.png",
+            "title": "PHP"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/nodejs.png",
+            "title": "Nodejs"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/html5.png",
+            "title": "HTML5"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/css3.png",
+            "title": "CSS3"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/javascript.png",
+            "title": "Javascript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/jquery.png",
+            "title": "Jquery"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "images/down.svg"
+  }
+}

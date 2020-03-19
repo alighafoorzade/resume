@@ -1,0 +1,20 @@
+.navigation{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    background: #72b5b7;
+    box-shadow: 0px 0px 10px -6px;
+    justify-content: flex-end;
+    z-index: 5;
+}
+.navigation img{
+    width: 25px;
+    height: auto;
+}
+.nav-item{
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}

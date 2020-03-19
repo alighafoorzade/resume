@@ -1,0 +1,54 @@
+/* Default Theme */
+.default{
+    color: white;
+}
+.default.first{
+    background: #c02739;
+}
+.default.first h1,.default.first h2{
+    color:white;
+}
+.default.second{
+    background: #84142d;
+}
+.default.third{
+    background: #54123b;
+}
+/* End Theme */
+
+/* Theme1 Theme */
+.theme1.first{
+    background: #f1fcfc;
+}
+.theme1.second{
+    background: #72b5b7;
+}
+.theme1.third{
+    background: #633a82;
+}
+/* End Theme */
+/* Theme2 Theme */
+.theme2.first{
+    background: #ffd868;
+}
+.theme2.second{
+    background: #b80d57;
+}
+.theme2.third{
+    background: #721b65;
+}
+/* End Theme */
+/* Theme3 Theme */
+.theme3{
+    color: white;
+}
+.theme3.first{
+    background: #54123b;
+}
+.theme3.second{
+    background: #c02739;
+}
+.theme3.third{
+    background: #596157;
+}
+/* End Theme */

@@ -1,0 +1,13 @@
+.social-container{
+    filter: grayscale(100%);
+}
+.social-container:hover{
+    filter: none;
+}
+.social-svg-icon{
+    fill: white !important;
+}
+.icons a{
+    margin: 10px 10px;
+    padding: 5px;
+}

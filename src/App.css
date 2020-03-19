@@ -1,0 +1,10 @@
+body,p,pre,h1,h2,h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.skills{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  align-items:stretch
+}

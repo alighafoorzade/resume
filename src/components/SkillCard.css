@@ -1,0 +1,29 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    background: #ffffff75;
+    width: calc( 25% - 10px );
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    transition: 0.3s ease;
+}
+.card p{
+    color: white !important;
+}
+.card:hover{
+    background: #fff;
+    transition: 0.3s ease;
+}
+.card:hover p{
+    color: black !important;
+}
+.card:hover img{
+    filter: none;
+    transition: 0.3s ease;
+}
+.card img{
+    filter: grayscale(100%);
+    transition: 0.3s ease;
+}
