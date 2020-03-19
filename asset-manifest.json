@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maktabkhooneh-resume/static/css/main.df80e859.chunk.css",
+    "main.js": "/maktabkhooneh-resume/static/js/main.41ed9d6e.chunk.js",
+    "main.js.map": "/maktabkhooneh-resume/static/js/main.41ed9d6e.chunk.js.map",
+    "runtime-main.js": "/maktabkhooneh-resume/static/js/runtime-main.5dd51774.js",
+    "runtime-main.js.map": "/maktabkhooneh-resume/static/js/runtime-main.5dd51774.js.map",
+    "static/js/2.d1434c1d.chunk.js": "/maktabkhooneh-resume/static/js/2.d1434c1d.chunk.js",
+    "static/js/2.d1434c1d.chunk.js.map": "/maktabkhooneh-resume/static/js/2.d1434c1d.chunk.js.map",
+    "index.html": "/maktabkhooneh-resume/index.html",
+    "precache-manifest.03b592a992efd42f4f0cae7c8bf46d4a.js": "/maktabkhooneh-resume/precache-manifest.03b592a992efd42f4f0cae7c8bf46d4a.js",
+    "service-worker.js": "/maktabkhooneh-resume/service-worker.js",
+    "static/css/main.df80e859.chunk.css.map": "/maktabkhooneh-resume/static/css/main.df80e859.chunk.css.map",
+    "static/js/2.d1434c1d.chunk.js.LICENSE.txt": "/maktabkhooneh-resume/static/js/2.d1434c1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dd51774.js",
+    "static/js/2.d1434c1d.chunk.js",
+    "static/css/main.df80e859.chunk.css",
+    "static/js/main.41ed9d6e.chunk.js"
+  ]
+}
